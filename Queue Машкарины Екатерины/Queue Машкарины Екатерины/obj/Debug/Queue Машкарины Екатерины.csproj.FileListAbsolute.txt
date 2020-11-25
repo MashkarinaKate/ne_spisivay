@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\ООП проекты\Queue Машкарины Екатерины\Queue Машкарины Екатерины\bin\Debug\Queue Машкарины Екатерины.exe.config
+C:\Users\HP\Desktop\ООП проекты\Queue Машкарины Екатерины\Queue Машкарины Екатерины\bin\Debug\Queue Машкарины Екатерины.exe
+C:\Users\HP\Desktop\ООП проекты\Queue Машкарины Екатерины\Queue Машкарины Екатерины\bin\Debug\Queue Машкарины Екатерины.pdb
+C:\Users\HP\Desktop\ООП проекты\Queue Машкарины Екатерины\Queue Машкарины Екатерины\obj\Debug\Queue Машкарины Екатерины.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ООП проекты\Queue Машкарины Екатерины\Queue Машкарины Екатерины\obj\Debug\Queue Машкарины Екатерины.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП проекты\Queue Машкарины Екатерины\Queue Машкарины Екатерины\obj\Debug\Queue Машкарины Екатерины.exe
+C:\Users\HP\Desktop\ООП проекты\Queue Машкарины Екатерины\Queue Машкарины Екатерины\obj\Debug\Queue Машкарины Екатерины.pdb
